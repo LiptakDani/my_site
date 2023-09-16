@@ -1,0 +1,9 @@
+# virtual environment
+venv/
+
+
+# python binaires
+*.pyc
+
+# vscode
+.vscode
