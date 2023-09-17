@@ -1,0 +1,13 @@
+body{
+    color:brown;
+}
+
+.avatar-img{
+    width: 80%;
+    height: auto;
+}
+
+.title{
+    font-size: 6rem;
+    background-color: black;
+}   
